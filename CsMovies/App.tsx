@@ -9,10 +9,7 @@ export default function App() {
   return (
     <Provider store={Store}>
       <NavigationContainer>
-
-        <Navigation /> 
-        
-
+        <Navigation />    
       </NavigationContainer>
     </Provider>
   );
